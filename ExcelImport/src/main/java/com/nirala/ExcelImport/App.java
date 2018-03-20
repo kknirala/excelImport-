@@ -127,6 +127,6 @@ public class App
     	         se.printStackTrace();
     	      }
     	   }
-     System.out.println("Thnaks !");
+     System.out.println("Thanks!");
     }
 }
